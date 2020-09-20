@@ -1,3 +1,5 @@
+## Information Theory
+
 The project developed in this course required applications of computational methods to physical concepts and models.
 
 In particular, NP-problems (such as graph partitioning, traveling salesman and more) were described with an Ising formalism. The idea was to optimize these systems as if they were physical, i.e. configurations of spins whose ground state needs to be found.
