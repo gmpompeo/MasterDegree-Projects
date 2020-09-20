@@ -1,4 +1,4 @@
-### Brief guide to code files
+## Brief guide to code files
 
 Here we present a list with a brief description of the purpose of each code file - further details can be found in the documentation within the code itself or in the .pdf report.
 
